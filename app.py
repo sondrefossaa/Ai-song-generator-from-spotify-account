@@ -28,8 +28,6 @@ auth_manager = spotipy.oauth2.SpotifyOAuth(
 
 @app.route("/", methods=["GET", "POST"])
 def index():
-
-
     # Handle POST request FIRST (before callback check)
     if request.method == "POST" and request.form.get("login"):
         auth_url = auth_manager.get_authorize_url()
