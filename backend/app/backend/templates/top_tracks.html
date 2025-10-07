@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Tracks - Spotify Top 100</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1db954, #191414);
+            margin: 0;
+            padding: 0;
+            color: white;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        .back-btn {
+            background: rgba(255,255,255,0.2);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+        .back-btn:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        .tracks-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .track-card {
+            background: rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 20px;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+        .track-card:hover {
+            transform: translateY(-5px);
+            background: rgba(255,255,255,0.15);
+        }
+        .track-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 10px;
+            margin-bottom: 15px;
+        }
+        .track-rank {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #1db954;
+            margin-bottom: 10px;
+        }
+        .track-name {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        .track-artist {
+            color: #b3b3b3;
+            margin-bottom: 8px;
+        }
+        .track-album {
+            color: #b3b3b3;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Your Top Tracks 🎵</h1>
+            <a href="/" class="back-btn">← Back to Dashboard</a>
+        </div>
+
+        <div class="tracks-grid">
+            {% for track in tracks %}
+            <div class="track-card">
+                <div class="track-rank">#{{ track.rank }}</div>
+                {% if track.image %}
+                <img src="{{ track.image }}" alt="{{ track.name }}" class="track-image">
+                {% endif %}
+                <div class="track-name">{{ track.name }}</div>
+                <div class="track-artist">{{ track.artists | join(', ') }}</div>
+                <div class="track-album">{{ track.album }}</div>
+                {% if track.preview_url %}
+                <audio controls style="width: 100%; margin-top: 10px;">
+                    <source src="{{ track.preview_url }}" type="audio/mpeg">
+                </audio>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

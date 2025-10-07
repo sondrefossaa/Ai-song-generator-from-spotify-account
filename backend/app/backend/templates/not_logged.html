@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Spotify Top 100</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1db954, #191414);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .login-container {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            text-align: center;
+            max-width: 400px;
+            width: 90%;
+        }
+        .spotify-logo {
+            font-size: 4em;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #191414;
+            margin-bottom: 10px;
+        }
+        p {
+            color: #666;
+            margin-bottom: 30px;
+        }
+        .login-btn {
+            background: #1db954;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 25px;
+            font-size: 1.1em;
+            cursor: pointer;
+            width: 100%;
+            transition: all 0.3s ease;
+        }
+        .login-btn:hover {
+            background: #1ed760;
+            transform: translateY(-2px);
+        }
+        .features {
+            margin-top: 30px;
+            text-align: left;
+        }
+        .feature {
+            display: flex;
+            align-items: center;
+            margin: 15px 0;
+            color: #666;
+        }
+        .feature-icon {
+            font-size: 1.5em;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <div class="spotify-logo">🎵</div>
+        <h1>Your Spotify Top 100</h1>
+        <p>Discover your most played tracks and artists</p>
+        
+        <form action="/" method="post">
+            <input type="submit" name="login" class="login-btn" value="Login with Spotify">
+        </form>
+        
+        <div class="features">
+            <div class="feature">
+                <span class="feature-icon">📊</span>
+                <span>View your top 100 tracks</span>
+            </div>
+            <div class="feature">
+                <span class="feature-icon">🎵</span>
+                <span>Discover your music taste</span>
+            </div>
+            <div class="feature">
+                <span class="feature-icon">📈</span>
+                <span>See your listening stats</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
