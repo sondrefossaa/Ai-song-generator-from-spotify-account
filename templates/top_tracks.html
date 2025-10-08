@@ -97,11 +97,6 @@
                 <div class="track-name">{{ track.name }}</div>
                 <div class="track-artist">{{ track.artists | join(', ') }}</div>
                 <div class="track-album">{{ track.album }}</div>
-                {% if track.preview_url %}
-                <audio controls style="width: 100%; margin-top: 10px;">
-                    <source src="{{ track.preview_url }}" type="audio/mpeg">
-                </audio>
-                {% endif %}
             </div>
             {% endfor %}
         </div>

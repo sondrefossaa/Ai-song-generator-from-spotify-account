@@ -39,14 +39,14 @@ def index():
         return redirect('/')
     
     # FINALLY check authentication status
-    if not auth_manager.validate_token(cache_handler.get_cached_token()):
+    if auth_manager.validate_token(cache_handler.get_cached_token()):
         # User is not logged in - show login page
-        return render_template("not_logged.html")
-    else:
-        # User is logged in - show dashboard
         spotify = spotipy.Spotify(auth_manager=auth_manager)
         user_name = spotify.me()["display_name"]
-        return render_template("logged_in.html", user_name=user_name)
+        return render_template("index.html", user_name=user_name, logged_in=True)
+    else:
+        # User is logged in - show dashboard
+        return render_template("index.html", user_name=None, logged_in=False)
 
 @app.route("/top_tracks")
 def top_tracks():
