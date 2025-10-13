@@ -1,0 +1,1356 @@
+{
+    "items": [
+        {
+            "id": "5SkRLpaGtvYPhw02vZhQQ9",
+            "name": "All Falls Down",
+            "duration_ms": 223506,
+            "popularity": 82,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "1lE6SEy8f84Zhjvp7r8yTD",
+                    "name": "Syleena Johnson"
+                }
+            ]
+        },
+        {
+            "id": "0IW0qaeyxL5Et4UG2MrJKB",
+            "name": "We Don't Care",
+            "duration_ms": 239880,
+            "popularity": 65,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                }
+            ]
+        },
+        {
+            "id": "0n7PGQvIHZZP7twPEhUpBN",
+            "name": "Godmorgen Norge",
+            "duration_ms": 156280,
+            "popularity": 39,
+            "artists": [
+                {
+                    "id": "2rvUlmaAfN7eKSVAcaRj9t",
+                    "name": "vinni"
+                }
+            ]
+        },
+        {
+            "id": "6MXXY2eiWkpDCezVCc0cMH",
+            "name": "Good Morning",
+            "duration_ms": 195093,
+            "popularity": 72,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                }
+            ]
+        },
+        {
+            "id": "6MgGapP3EPFm9kYUvYBTZR",
+            "name": "I'll Fly Away",
+            "duration_ms": 69706,
+            "popularity": 53,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                }
+            ]
+        },
+        {
+            "id": "7wL7Lb8Q3aYyq6gmRL0PZq",
+            "name": "Graduation Day",
+            "duration_ms": 81786,
+            "popularity": 53,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                }
+            ]
+        },
+        {
+            "id": "1ko2NuvWlQdxtNRc8QQzmT",
+            "name": "Spaceship",
+            "duration_ms": 324226,
+            "popularity": 65,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "2hZ6jVi1cao5VlJHAEPzU7",
+                    "name": "GLC"
+                },
+                {
+                    "id": "5KkgZ31b9eDwkvo9oMIrSm",
+                    "name": "Consequence"
+                }
+            ]
+        },
+        {
+            "id": "5g1vtHqi9uV7xtYeCcFOBx",
+            "name": "Jesus Walks",
+            "duration_ms": 193733,
+            "popularity": 70,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                }
+            ]
+        },
+        {
+            "id": "5itF66zYn38tEXTAvFPqIk",
+            "name": "Down By The River",
+            "duration_ms": 241052,
+            "popularity": 68,
+            "artists": [
+                {
+                    "id": "1hzfo8twXdOegF3xireCYs",
+                    "name": "Milky Chance"
+                }
+            ]
+        },
+        {
+            "id": "4FoRpi0ILF4DEj8rAP578w",
+            "name": "Superhelt Steez",
+            "duration_ms": 182973,
+            "popularity": 42,
+            "artists": [
+                {
+                    "id": "1LyYIhqdjG9R9VdIRSftBb",
+                    "name": "UNDERGRUNN"
+                }
+            ]
+        },
+        {
+            "id": "1mITvds7JRzV7WJhsnGGpn",
+            "name": "Second Chapter",
+            "duration_ms": 135293,
+            "popularity": 41,
+            "artists": [
+                {
+                    "id": "3DmG65yHQsMms7WAvrZOdt",
+                    "name": "Enigma"
+                }
+            ]
+        },
+        {
+            "id": "6RNews4WFfXv1fJdwL0ZQb",
+            "name": "Tenke Sj\u00e6l",
+            "duration_ms": 160106,
+            "popularity": 47,
+            "artists": [
+                {
+                    "id": "1LyYIhqdjG9R9VdIRSftBb",
+                    "name": "UNDERGRUNN"
+                }
+            ]
+        },
+        {
+            "id": "5p92TOuIaqTprq7BcTa3x3",
+            "name": "Schnogodidougudugidoubudibow",
+            "duration_ms": 110373,
+            "popularity": 39,
+            "artists": [
+                {
+                    "id": "1LyYIhqdjG9R9VdIRSftBb",
+                    "name": "UNDERGRUNN"
+                }
+            ]
+        },
+        {
+            "id": "6GzCkTddOn1vSln1gbSr8y",
+            "name": "Shoot to Thrill",
+            "duration_ms": 317800,
+            "popularity": 56,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "34j4OxJxKznBs88cjSL2j9",
+            "name": "Never Let Me Down",
+            "duration_ms": 324440,
+            "popularity": 62,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "3nFkdlSjzX9mRTtwJOzDYB",
+                    "name": "JAY-Z"
+                },
+                {
+                    "id": "0hKpvarswO34Ks5iPNmEXn",
+                    "name": "J. Ivy"
+                }
+            ]
+        },
+        {
+            "id": "52UWtKlYjZO3dHoRlWuz9S",
+            "name": "Thunderstruck",
+            "duration_ms": 292413,
+            "popularity": 62,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "62KeM7jbmYvzT5FycdiQeS",
+            "name": "Wake Up Mr. West",
+            "duration_ms": 41066,
+            "popularity": 51,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                }
+            ]
+        },
+        {
+            "id": "6qECeG4hIl0jXP4XaGUTaC",
+            "name": "Kristoffer Robin",
+            "duration_ms": 243623,
+            "popularity": 0,
+            "artists": [
+                {
+                    "id": "5O7vw7DOXDVSqVWWc8FpYV",
+                    "name": "Randi Oline"
+                }
+            ]
+        },
+        {
+            "id": "7nLMZKhfkFZLr9rz4VyOpF",
+            "name": "Vart jag mig i v\u00e4rlden v\u00e4nder",
+            "duration_ms": 212109,
+            "popularity": 54,
+            "artists": [
+                {
+                    "id": "0NyrvUybTePmsuED5vZi4G",
+                    "name": "Den svenska bj\u00f6rnstammen"
+                }
+            ]
+        },
+        {
+            "id": "1Fs6981aJIZYK7fhzVLdJy",
+            "name": "Sj\u00f8r\u00f8verne kommer!",
+            "duration_ms": 210600,
+            "popularity": 53,
+            "artists": [
+                {
+                    "id": "2ZK0wMoGf3J25mleuKc4tY",
+                    "name": "Kaptein Sabeltann"
+                },
+                {
+                    "id": "6kD825qRQoUKwYKDar95SP",
+                    "name": "Terje Formoe"
+                }
+            ]
+        },
+        {
+            "id": "5b2FFKC64kxqcfaFnIZxoM",
+            "name": "Get Em High",
+            "duration_ms": 289493,
+            "popularity": 58,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "0lEssBAxQl2In4RpaB1C2Y",
+                    "name": "Talib Kweli"
+                },
+                {
+                    "id": "2GHclqNVjqGuiE5mA7BEoc",
+                    "name": "Common"
+                }
+            ]
+        },
+        {
+            "id": "01sno3m5rqaFy2YVE1A7LZ",
+            "name": "Guns for Hire",
+            "duration_ms": 204680,
+            "popularity": 39,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "15zUyQPa91SOSeBf3w4ofr",
+            "name": "The Eyes Of Truth",
+            "duration_ms": 434506,
+            "popularity": 55,
+            "artists": [
+                {
+                    "id": "3DmG65yHQsMms7WAvrZOdt",
+                    "name": "Enigma"
+                }
+            ]
+        },
+        {
+            "id": "1EHNrwZlxW9Wp07Ohv1Jbw",
+            "name": "T.N.T.",
+            "duration_ms": 213986,
+            "popularity": 51,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "1V6kRlJnTC4W319N0BvJag",
+            "name": "If You Want Blood (You've Got It)",
+            "duration_ms": 273840,
+            "popularity": 46,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "2UKkLqST2xWpK8n1b0Xr5Z",
+            "name": "Return To Innocence",
+            "duration_ms": 255466,
+            "popularity": 68,
+            "artists": [
+                {
+                    "id": "3DmG65yHQsMms7WAvrZOdt",
+                    "name": "Enigma"
+                }
+            ]
+        },
+        {
+            "id": "2iEGj7kAwH7HAa5epwYwLB",
+            "name": "Back In Black",
+            "duration_ms": 255640,
+            "popularity": 58,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "3KAjzE9Y4KXhSYLN0E9Kpb",
+            "name": "Evil Walks",
+            "duration_ms": 263786,
+            "popularity": 36,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "4IT9XxTHKgivxPk6lS8ZE5",
+            "name": "Cold Hearted Man",
+            "duration_ms": 214373,
+            "popularity": 37,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "4KFY4EEv9CN6ivrzD6vEvg",
+            "name": "Breathe In Breathe Out",
+            "duration_ms": 246933,
+            "popularity": 56,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "3ipn9JLAPI5GUEo4y4jcoi",
+                    "name": "Ludacris"
+                }
+            ]
+        },
+        {
+            "id": "4UQMOPSUVJVicIQzjAcRRZ",
+            "name": "Champion",
+            "duration_ms": 167600,
+            "popularity": 73,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                }
+            ]
+        },
+        {
+            "id": "5aIVCx5tnk0ntmdiinnYvw",
+            "name": "Water",
+            "duration_ms": 200255,
+            "popularity": 83,
+            "artists": [
+                {
+                    "id": "3SozjO3Lat463tQICI9LcE",
+                    "name": "Tyla"
+                }
+            ]
+        },
+        {
+            "id": "11A6wBoTeemgHHuCotUL3u",
+            "name": "Hva vi kunne bli",
+            "duration_ms": 175360,
+            "popularity": 43,
+            "artists": [
+                {
+                    "id": "5O7vw7DOXDVSqVWWc8FpYV",
+                    "name": "Randi Oline"
+                }
+            ]
+        },
+        {
+            "id": "1QUwyTmV8Ld17iqMGNdfmR",
+            "name": "War Machine",
+            "duration_ms": 189720,
+            "popularity": 40,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "1Ru1scJuR193OlnCnVvYjM",
+            "name": "Rock 'N' Roll Damnation",
+            "duration_ms": 216933,
+            "popularity": 42,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "2nYGPpX3DEab0aql1oAwXY",
+            "name": "The Razors Edge",
+            "duration_ms": 262533,
+            "popularity": 34,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "2plbrEY59IikOBgBGLjaoe",
+            "name": "Die With A Smile",
+            "duration_ms": 251667,
+            "popularity": 92,
+            "artists": [
+                {
+                    "id": "1HY2Jd0NmPuamShAr6KMms",
+                    "name": "Lady Gaga"
+                },
+                {
+                    "id": "0du5cEVh5yTK9QJze8zA0C",
+                    "name": "Bruno Mars"
+                }
+            ]
+        },
+        {
+            "id": "3E61ra5VUF6eu3tpfsXfou",
+            "name": "I Love You... I'll Kill You",
+            "duration_ms": 532560,
+            "popularity": 48,
+            "artists": [
+                {
+                    "id": "3DmG65yHQsMms7WAvrZOdt",
+                    "name": "Enigma"
+                }
+            ]
+        },
+        {
+            "id": "3GeGYkJIP9c7JN5cpu6h2Z",
+            "name": "Hell Ain't a Bad Place to Be",
+            "duration_ms": 253626,
+            "popularity": 35,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "3mCfSExH1q3d2lLnddgiWV",
+            "name": "Have a Drink on Me",
+            "duration_ms": 238906,
+            "popularity": 45,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "7pZYTjl0SQhdsi5qsWS8Q0",
+            "name": "Let There Be Rock",
+            "duration_ms": 366426,
+            "popularity": 36,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "62wtttQzoIA9HnNmGVd9Yq",
+            "name": "Two Words",
+            "duration_ms": 266213,
+            "popularity": 63,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "0Mz5XE0kb1GBnbLQm2VbcO",
+                    "name": "Mos Def"
+                },
+                {
+                    "id": "2Jwr7hGoSNK3S3QBxh3T0z",
+                    "name": "Freeway"
+                },
+                {
+                    "id": "7Cp14KBRtDwGucKNPUyT11",
+                    "name": "The Boys Choir Of Harlem"
+                }
+            ]
+        },
+        {
+            "id": "73xjJ1TIE6WP3HNKczQE4F",
+            "name": "Moonwalking in Calabasas (feat. Blueface) - Remix",
+            "duration_ms": 170232,
+            "popularity": 64,
+            "artists": [
+                {
+                    "id": "0WK3H9OErSn5zKOkOV5egm",
+                    "name": "DDG"
+                },
+                {
+                    "id": "3Fl1V19tmjt57oBdxXKAjJ",
+                    "name": "Blueface"
+                }
+            ]
+        },
+        {
+            "id": "3K88r7PKg1UxghZVTtAOnW",
+            "name": "Er Dette Til \u00c5 Overleve",
+            "duration_ms": 164769,
+            "popularity": 42,
+            "artists": [
+                {
+                    "id": "6w6TB0XMM0VZ3oDsy7tUYJ",
+                    "name": "Beathoven"
+                },
+                {
+                    "id": "5O7vw7DOXDVSqVWWc8FpYV",
+                    "name": "Randi Oline"
+                }
+            ]
+        },
+        {
+            "id": "4aqm3AXpo7MI7qET8ZURxD",
+            "name": "Silent Warrior",
+            "duration_ms": 369773,
+            "popularity": 40,
+            "artists": [
+                {
+                    "id": "3DmG65yHQsMms7WAvrZOdt",
+                    "name": "Enigma"
+                }
+            ]
+        },
+        {
+            "id": "4EKpBqfFYKbxxU1Qdh03Hu",
+            "name": "Tenke Sj\u00e6l",
+            "duration_ms": 170613,
+            "popularity": 41,
+            "artists": [
+                {
+                    "id": "71nrP3Yj7QwXoxJWtLJLYP",
+                    "name": "Trond-Viggo Torgersen"
+                }
+            ]
+        },
+        {
+            "id": "7qjZnBKE73H4Oxkopwulqe",
+            "name": "back to friends",
+            "duration_ms": 199032,
+            "popularity": 92,
+            "artists": [
+                {
+                    "id": "4G9NDjRyZFDlJKMRL8hx3S",
+                    "name": "sombr"
+                }
+            ]
+        },
+        {
+            "id": "1BK4P5U99RBR0Vlvueshtp",
+            "name": "The Dream Of The Dolphin",
+            "duration_ms": 167369,
+            "popularity": 55,
+            "artists": [
+                {
+                    "id": "3DmG65yHQsMms7WAvrZOdt",
+                    "name": "Enigma"
+                }
+            ]
+        },
+        {
+            "id": "1Vp4St7JcXaUoJcIahtf3L",
+            "name": "The New Workout Plan",
+            "duration_ms": 322800,
+            "popularity": 62,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                }
+            ]
+        },
+        {
+            "id": "2dxjKgT0li4qBI3QwuN9Ih",
+            "name": "Touch The Sky",
+            "duration_ms": 236600,
+            "popularity": 75,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "01QTIT5P1pFP3QnnFSdsJf",
+                    "name": "Lupe Fiasco"
+                }
+            ]
+        },
+        {
+            "id": "3A4cpTBPaIQdtPFb5JxtaX",
+            "name": "Slow Jamz",
+            "duration_ms": 316053,
+            "popularity": 72,
+            "artists": [
+                {
+                    "id": "6vbY3hOaCAhC7VjucswgdS",
+                    "name": "Twista"
+                },
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "7LnaAXbDVIL75IVPnndf7w",
+                    "name": "Jamie Foxx"
+                }
+            ]
+        },
+        {
+            "id": "7x97HGHJQwvgDkYOLbpsVF",
+            "name": "Age Of Loneliness (Carly's Song)",
+            "duration_ms": 321493,
+            "popularity": 50,
+            "artists": [
+                {
+                    "id": "3DmG65yHQsMms7WAvrZOdt",
+                    "name": "Enigma"
+                }
+            ]
+        },
+        {
+            "id": "25sn39PY451B0DA39WDQuh",
+            "name": "Tore Tang",
+            "duration_ms": 202866,
+            "popularity": 47,
+            "artists": [
+                {
+                    "id": "0CxtQc10Pwu5xOXYneZqXa",
+                    "name": "Mods"
+                }
+            ]
+        },
+        {
+            "id": "0trHOzAhNpGCsGBEu7dOJo",
+            "name": "N.Y. State of Mind",
+            "duration_ms": 293973,
+            "popularity": 71,
+            "artists": [
+                {
+                    "id": "20qISvAhX20dpIbOOzGK3q",
+                    "name": "Nas"
+                }
+            ]
+        },
+        {
+            "id": "5YmmqeU1a7KsNzvbj4aCGS",
+            "name": "Ordinary People (feat. JP Cooper)",
+            "duration_ms": 270266,
+            "popularity": 51,
+            "artists": [
+                {
+                    "id": "4Dokdwa3WB7ilQ2c2qvIBL",
+                    "name": "Bugzy Malone"
+                },
+                {
+                    "id": "4kYGAK2zu9EAomwj3hXkXy",
+                    "name": "JP Cooper"
+                }
+            ]
+        },
+        {
+            "id": "7lDOFAKyxVXTPSNVt8fhYH",
+            "name": "Out From The Deep",
+            "duration_ms": 293106,
+            "popularity": 42,
+            "artists": [
+                {
+                    "id": "3DmG65yHQsMms7WAvrZOdt",
+                    "name": "Enigma"
+                }
+            ]
+        },
+        {
+            "id": "0j2T0R9dR9qdJYsB7ciXhf",
+            "name": "Stronger",
+            "duration_ms": 311866,
+            "popularity": 81,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                }
+            ]
+        },
+        {
+            "id": "1PS1QMdUqOal0ai3Gt7sDQ",
+            "name": "Gold Digger",
+            "duration_ms": 207626,
+            "popularity": 80,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "7LnaAXbDVIL75IVPnndf7w",
+                    "name": "Jamie Foxx"
+                }
+            ]
+        },
+        {
+            "id": "591ks2A0o7ratTpiRdI7M6",
+            "name": "Heart On Ice",
+            "duration_ms": 159669,
+            "popularity": 68,
+            "artists": [
+                {
+                    "id": "45TgXXqMDdF8BkjA83OM7z",
+                    "name": "Rod Wave"
+                }
+            ]
+        },
+        {
+            "id": "0TzIHqhAbvYR6qJKrMMFlk",
+            "name": "My Way Home",
+            "duration_ms": 103373,
+            "popularity": 54,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "2GHclqNVjqGuiE5mA7BEoc",
+                    "name": "Common"
+                }
+            ]
+        },
+        {
+            "id": "11slBZy6RBhfGK80JfwnML",
+            "name": "R\u00f8d og hvit fra Troms\u00f8",
+            "duration_ms": 201290,
+            "popularity": 26,
+            "artists": [
+                {
+                    "id": "5CB5G7cs4iMsQkOqqbCSaA",
+                    "name": "Sn\u00f6"
+                }
+            ]
+        },
+        {
+            "id": "2a1JSfTePKhysdIif2bzut",
+            "name": "Workout Plan",
+            "duration_ms": 46173,
+            "popularity": 49,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                }
+            ]
+        },
+        {
+            "id": "4mhDjLuXWYYb8dDUy08u04",
+            "name": "Dum og deilig",
+            "duration_ms": 191400,
+            "popularity": 41,
+            "artists": [
+                {
+                    "id": "1OTNNdgU6qLUTCwvJxcObX",
+                    "name": "Knutsen & Ludvigsen"
+                }
+            ]
+        },
+        {
+            "id": "6yIjtVtnOBeC8SwdVHzAuF",
+            "name": "Heard 'Em Say",
+            "duration_ms": 203733,
+            "popularity": 66,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "4bYPcJP5jwMhSivRcqie2n",
+                    "name": "Adam Levine"
+                }
+            ]
+        },
+        {
+            "id": "7rbECVPkY5UODxoOUVKZnA",
+            "name": "I Wonder",
+            "duration_ms": 243440,
+            "popularity": 82,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                }
+            ]
+        },
+        {
+            "id": "005cocyIL36CVjjtUEdVSq",
+            "name": "En Solskinnsdag",
+            "duration_ms": 186413,
+            "popularity": 51,
+            "artists": [
+                {
+                    "id": "3DdqT0OIZY3arBWnZ3NJeb",
+                    "name": "Postgirobygget"
+                }
+            ]
+        },
+        {
+            "id": "2Iq6HhIquO7JKr0KfTNLzU",
+            "name": "My Type",
+            "duration_ms": 204811,
+            "popularity": 70,
+            "artists": [
+                {
+                    "id": "1dWEYMPtNmvSVaDNLgB6NV",
+                    "name": "Saint Motel"
+                }
+            ]
+        },
+        {
+            "id": "37oQFO7hlyXvgZ0qQwrGsj",
+            "name": "Beige",
+            "duration_ms": 179480,
+            "popularity": 36,
+            "artists": [
+                {
+                    "id": "1LyYIhqdjG9R9VdIRSftBb",
+                    "name": "UNDERGRUNN"
+                }
+            ]
+        },
+        {
+            "id": "0l1Pp67JljnHBeNYzffPkf",
+            "name": "The Cross Of Changes",
+            "duration_ms": 144400,
+            "popularity": 50,
+            "artists": [
+                {
+                    "id": "3DmG65yHQsMms7WAvrZOdt",
+                    "name": "Enigma"
+                }
+            ]
+        },
+        {
+            "id": "0y60itmpH0aPKsFiGxmtnh",
+            "name": "Wait a Minute!",
+            "duration_ms": 196520,
+            "popularity": 80,
+            "artists": [
+                {
+                    "id": "3rWZHrfrsPBxVy692yAIxF",
+                    "name": "WILLOW"
+                }
+            ]
+        },
+        {
+            "id": "4q8ce3VGQzroZzwrRhRwKf",
+            "name": "Magic",
+            "duration_ms": 240517,
+            "popularity": 53,
+            "artists": [
+                {
+                    "id": "4Bz5TfMslds0eViTxhE6gK",
+                    "name": "Olympic Ayres"
+                }
+            ]
+        },
+        {
+            "id": "5TbzAWWc5eJaANpA9kfGCd",
+            "name": "Love Me Again",
+            "duration_ms": 239894,
+            "popularity": 78,
+            "artists": [
+                {
+                    "id": "34v5MVKeQnIo0CWYMbbrPf",
+                    "name": "John Newman"
+                }
+            ]
+        },
+        {
+            "id": "755xVrgyHyUpl9EP5e4ICf",
+            "name": "Players",
+            "duration_ms": 138760,
+            "popularity": 61,
+            "artists": [
+                {
+                    "id": "6AMd49uBDJfhf30Ak2QR5s",
+                    "name": "Coi Leray"
+                }
+            ]
+        },
+        {
+            "id": "0mEdbdeRFQwBhN4xfyIeUM",
+            "name": "Can't Tell Me Nothing",
+            "duration_ms": 271600,
+            "popularity": 82,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                }
+            ]
+        },
+        {
+            "id": "1OIYK9Ya6EgwJ4fMngrPcK",
+            "name": "Highway to Hell",
+            "duration_ms": 208920,
+            "popularity": 51,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "2OzhQlSqBEmt7hmkYxfT6m",
+            "name": "Fortnight (feat. Post Malone)",
+            "duration_ms": 228965,
+            "popularity": 82,
+            "artists": [
+                {
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift"
+                },
+                {
+                    "id": "246dkjvS1zLTtiykXe5h60",
+                    "name": "Post Malone"
+                }
+            ]
+        },
+        {
+            "id": "4ZPdLEztrlZqbJkgHNw54L",
+            "name": "Good Life",
+            "duration_ms": 207000,
+            "popularity": 74,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "3aQeKQSyrW4qWr35idm0cy",
+                    "name": "T-Pain"
+                }
+            ]
+        },
+        {
+            "id": "57bgtoPSgt236HzfBOd8kj",
+            "name": "Thunderstruck",
+            "duration_ms": 292880,
+            "popularity": 86,
+            "artists": [
+                {
+                    "id": "711MCceyCBcFnzjGY4Q7Un",
+                    "name": "AC/DC"
+                }
+            ]
+        },
+        {
+            "id": "6YV2AI87l1n2fzqU8Dyo05",
+            "name": "Virginia Beach",
+            "duration_ms": 251094,
+            "popularity": 57,
+            "artists": [
+                {
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake"
+                }
+            ]
+        },
+        {
+            "id": "6oBuhfQSG0SSkcOPlEOavK",
+            "name": "Can't Tame Her - VIZE Remix",
+            "duration_ms": 173333,
+            "popularity": 43,
+            "artists": [
+                {
+                    "id": "1Xylc3o4UrD53lo9CvFvVg",
+                    "name": "Zara Larsson"
+                },
+                {
+                    "id": "09agIJMxCD2k87ys9Al0f0",
+                    "name": "VIZE"
+                }
+            ]
+        },
+        {
+            "id": "6vB49BJ70zBpDrrAPwdaB8",
+            "name": "Drive Slow",
+            "duration_ms": 272226,
+            "popularity": 60,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "0k7Xl1pqI3tu8sSEjo5oEg",
+                    "name": "Paul Wall"
+                },
+                {
+                    "id": "2hZ6jVi1cao5VlJHAEPzU7",
+                    "name": "GLC"
+                }
+            ]
+        },
+        {
+            "id": "7221xIgOnuakPdLqT0F3nP",
+            "name": "I Had Some Help (Feat. Morgan Wallen)",
+            "duration_ms": 178205,
+            "popularity": 81,
+            "artists": [
+                {
+                    "id": "246dkjvS1zLTtiykXe5h60",
+                    "name": "Post Malone"
+                },
+                {
+                    "id": "4oUHIQIBe0LHzYfvXNW4QM",
+                    "name": "Morgan Wallen"
+                }
+            ]
+        },
+        {
+            "id": "7EKRCCvZtqoXWzpCrGx7em",
+            "name": "Hvis det var opp til meg",
+            "duration_ms": 168387,
+            "popularity": 32,
+            "artists": [
+                {
+                    "id": "5O7vw7DOXDVSqVWWc8FpYV",
+                    "name": "Randi Oline"
+                }
+            ]
+        },
+        {
+            "id": "5dKZ094os3g4ZhCBGwOwqp",
+            "name": "Fire Fine L\u00e6nestola",
+            "duration_ms": 199733,
+            "popularity": 29,
+            "artists": [
+                {
+                    "id": "7GTcXeXx7lX9oNGRG7zfb7",
+                    "name": "Ola Uteligger"
+                }
+            ]
+        },
+        {
+            "id": "1udwFobQ1JoOdWPQrp2b6u",
+            "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+            "duration_ms": 229938,
+            "popularity": 77,
+            "artists": [
+                {
+                    "id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+                    "name": "JID"
+                },
+                {
+                    "id": "1URnnhqYAYcrqrcwql10ft",
+                    "name": "21 Savage"
+                },
+                {
+                    "id": "3IJ21966TwNZI24MwZHMu4",
+                    "name": "Baby Tate"
+                }
+            ]
+        },
+        {
+            "id": "0vQtlq80NMVGAh2EgzQg1C",
+            "name": "Pompeii Intro - Live at Pompeii - MCMLXXII - 2025 Mix",
+            "duration_ms": 210568,
+            "popularity": 44,
+            "artists": [
+                {
+                    "id": "0k17h0D3J5VfsdmQ1iZtE9",
+                    "name": "Pink Floyd"
+                }
+            ]
+        },
+        {
+            "id": "34KUIBsIUiPV7oCIzSdDAU",
+            "name": "Diamonds From Sierra Leone - Remix",
+            "duration_ms": 233400,
+            "popularity": 62,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "3nFkdlSjzX9mRTtwJOzDYB",
+                    "name": "JAY-Z"
+                }
+            ]
+        },
+        {
+            "id": "3TetzmUS3NlK6GJrKAgvzc",
+            "name": "H\u00e5per du har plass",
+            "duration_ms": 223680,
+            "popularity": 52,
+            "artists": [
+                {
+                    "id": "504cl42JQLRqlZddfZ3S4z",
+                    "name": "Cezinando"
+                }
+            ]
+        },
+        {
+            "id": "3bhyo2ED5Yd4RLydQBDtD6",
+            "name": "Good Night",
+            "duration_ms": 185973,
+            "popularity": 62,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "0Mz5XE0kb1GBnbLQm2VbcO",
+                    "name": "Mos Def"
+                },
+                {
+                    "id": "1i4q97Tz8xmGWJps51J7WT",
+                    "name": "Albe Back"
+                }
+            ]
+        },
+        {
+            "id": "4iz9lGMjU1lXS51oPmUmTe",
+            "name": "Homecoming",
+            "duration_ms": 203493,
+            "popularity": 81,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                },
+                {
+                    "id": "0LQoZQIV0mIs0y0XQb0Sw2",
+                    "name": "Chris Martin"
+                }
+            ]
+        },
+        {
+            "id": "5e5MKPtJuFb8NaeSEyV5gD",
+            "name": "Say You Will",
+            "duration_ms": 377600,
+            "popularity": 55,
+            "artists": [
+                {
+                    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                    "name": "Kanye West"
+                }
+            ]
+        },
+        {
+            "id": "6XpEm7VJ7TZxZTawH8BCSW",
+            "name": "Jump",
+            "duration_ms": 147071,
+            "popularity": 71,
+            "artists": [
+                {
+                    "id": "3SozjO3Lat463tQICI9LcE",
+                    "name": "Tyla"
+                },
+                {
+                    "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+                    "name": "Gunna"
+                },
+                {
+                    "id": "5FkUhnHQ0KC63549LHHtst",
+                    "name": "Skillibeng"
+                }
+            ]
+        },
+        {
+            "id": "6ZB1dFgdUW6I9qzW7Oap6o",
+            "name": "Idyll",
+            "duration_ms": 203253,
+            "popularity": 51,
+            "artists": [
+                {
+                    "id": "3DdqT0OIZY3arBWnZ3NJeb",
+                    "name": "Postgirobygget"
+                }
+            ]
+        },
+        {
+            "id": "7J1uxwnxfQLu4APicE5Rnj",
+            "name": "Billie Jean",
+            "duration_ms": 294226,
+            "popularity": 85,
+            "artists": [
+                {
+                    "id": "3fMbdgg4jU18AjLCKBhRSm",
+                    "name": "Michael Jackson"
+                }
+            ]
+        },
+        {
+            "id": "6tNQ70jh4OwmPGpYy6R2o9",
+            "name": "Beautiful Things",
+            "duration_ms": 180304,
+            "popularity": 84,
+            "artists": [
+                {
+                    "id": "22wbnEMDvgVIAGdFeek6ET",
+                    "name": "Benson Boone"
+                }
+            ]
+        },
+        {
+            "id": "2MuWTIM3b0YEAskbeeFE1i",
+            "name": "Master Of Puppets",
+            "duration_ms": 515386,
+            "popularity": 78,
+            "artists": [
+                {
+                    "id": "2ye2Wgw4gimLv2eAKyk1NB",
+                    "name": "Metallica"
+                }
+            ]
+        },
+        {
+            "id": "3xKsf9qdS1CyvXSMEid6g8",
+            "name": "Pink + White",
+            "duration_ms": 184516,
+            "popularity": 86,
+            "artists": [
+                {
+                    "id": "2h93pZq0e7k5yf4dywlkpM",
+                    "name": "Frank Ocean"
+                }
+            ]
+        },
+        {
+            "id": "3lYlbSVfxrSDE7FwO5fzzI",
+            "name": "Ikke som de andre",
+            "duration_ms": 214960,
+            "popularity": 46,
+            "artists": [
+                {
+                    "id": "3a0gvZAydt98HKVbGb0V67",
+                    "name": "Sondre Justad"
+                }
+            ]
+        },
+        {
+            "id": "5vNRhkKd0yEAg8suGBpjeY",
+            "name": "APT.",
+            "duration_ms": 169917,
+            "popularity": 88,
+            "artists": [
+                {
+                    "id": "3eVa5w3URK5duf6eyVDbu9",
+                    "name": "ROS\u00c9"
+                },
+                {
+                    "id": "0du5cEVh5yTK9QJze8zA0C",
+                    "name": "Bruno Mars"
+                }
+            ]
+        },
+        {
+            "id": "0TDLuuLlV54CkRRUOahJb4",
+            "name": "Titanium (feat. Sia)",
+            "duration_ms": 245040,
+            "popularity": 83,
+            "artists": [
+                {
+                    "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+                    "name": "David Guetta"
+                },
+                {
+                    "id": "5WUlDfRSoLAfcVSX1WnrxN",
+                    "name": "Sia"
+                }
+            ]
+        }
+    ]
+}
